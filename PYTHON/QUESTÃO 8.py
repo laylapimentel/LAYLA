@@ -1,0 +1,4 @@
+def funcao():
+    pass
+
+funcao()
